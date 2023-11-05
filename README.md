@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeabsira Moges</h1>
-<h3 align="center">I am a die hard full-stack software engineer.</h3>
+<h3 align="center">I am a die hard C - Programmer.</h3>
 
 - 🔭 I’m currently working on [C-programming](https://github.com/coleYab/alx-low_level_programming)
 
